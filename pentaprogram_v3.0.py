@@ -28,14 +28,6 @@ def draw_recursive_pentagram(size):
     if size<=100:
         draw_recursive_pentagram(size)
 
-def draw_pentagram(size):
-    """
-    绘制五角星
-    :param size:
-    :return:
-    """
-
-
 def main():
     """
         主函数
